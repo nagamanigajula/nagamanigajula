@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Software Engineer with professional experience in **Java development and telecom software** (Nokia projects at Capgemini and Infinite Computer Solutions), now pursuing my **Master's in Computer Science in the USA**. Alongside my degree, I work as a **Research Assistant**, applying **python and machine learning** to computational and quantum-chemical research problems.
+I'm a Software Engineer with **4+** Years professional experience in **Java development and telecom software** (Nokia projects at Capgemini and Infinite Computer Solutions), now pursuing my **Master's in Computer Science in the USA**. Alongside my degree, I work **1+** Year as a **Research Assistant**, applying **python and machine learning** to computational and quantum-chemical research problems.
 
 I'm focused on combining hands-on engineering experience with graduate-level AI/ML and cloud skills to build software that's both reliable and research-grade rigorous.
 
@@ -18,12 +18,12 @@ I'm focused on combining hands-on engineering experience with graduate-level AI/
 
 ### 💼 Professional Experience
 
-- **Capgemini** — Software Engineer
+- **Capgemini** — Software Engineer (**3+ Years**)
   Worked on Nokia telecom projects: Java development, FlowOne, BST, and catalog development.
-- **Infinite Computer Solutions** — Telecom Developer
+- **Infinite Computer Solutions** — Telecom Developer (**1 Year**)
   Telecom software development on Nokia-related projects.
 
-### 🔬 Research
+### 🔬 Research->(**1+ Year**)
 
 Research Assistant working on **Graphene Quantum Dots (GQDs)** — applying **python and machine learning** to molecular representations and quantum-chemical data for computational research.
 
