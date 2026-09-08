@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Software Engineer with professional experience in **Java development and telecom software** (Nokia projects at Capgemini and Infinite Computer Solutions), now pursuing my **Master's in Computer Science in the USA**. Alongside my degree, I work as a **Research Assistant**, applying machine learning to computational and quantum-chemical research problems.
+I'm a Software Engineer with professional experience in **Java development and telecom software** (Nokia projects at Capgemini and Infinite Computer Solutions), now pursuing my **Master's in Computer Science in the USA**. Alongside my degree, I work as a **Research Assistant**, applying **python and machine learning** to computational and quantum-chemical research problems.
 
 I'm focused on combining hands-on engineering experience with graduate-level AI/ML and cloud skills to build software that's both reliable and research-grade rigorous.
 
@@ -25,18 +25,17 @@ I'm focused on combining hands-on engineering experience with graduate-level AI/
 
 ### 🔬 Research
 
-Research Assistant working on **Graphene Quantum Dots (GQDs)** — applying machine learning to molecular representations and quantum-chemical data for computational research.
+Research Assistant working on **Graphene Quantum Dots (GQDs)** — applying **python and machine learning** to molecular representations and quantum-chemical data for computational research.
 
 ### 🎓 Current Focus
 
-`Data Structures & Algorithms` · `Python` · `SQL & Databases` · `AWS & Cloud Computing` · `Machine Learning` · `Software Engineering`
+`Data Structures & Algorithms` · `Python` · `SQL & Databases` · `AWS & Cloud Computing` · `AI/Machine Learning` · `Software Engineering`
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -46,19 +45,9 @@ Research Assistant working on **Graphene Quantum Dots (GQDs)** — applying mach
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nagamanigajula&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagamanigajula&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### 🎯 Career Goal
 
-To combine professional software engineering experience with graduate-level knowledge of AI/ML, cloud computing, and system design to build reliable, impactful software — bridging the gap between production engineering and applied research.
+To combine professional software engineering experience with graduate-level knowledge of python, AI/ML, cloud computing, and system design to build reliable, impactful software — bridging the gap between production engineering and applied research.
 
 <p align="center"><i>📍 Beaumont, Texas · Open to Software Engineering & ML roles</i></p>
